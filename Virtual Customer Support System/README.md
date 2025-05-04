@@ -1,29 +1,12 @@
-# Voice-Based-Tools
-# 🧠 Customer Tools Suite
+# 🤖 Virtual Customer Support System
 
-This repository includes 3 voice-enabled web applications built using HTML, CSS, and JavaScript.
-
-## Projects Included
-
-### 1. 🤖 Virtual Customer Support System
-An AI-powered voice chatbot that can:
-- Recognize voice input
-- Speak responses back
-- Save chat history locally
-- Help answer FAQs like hours, refunds, and orders
-
-📁 Folder: `virtual-customer-support`
+A voice-powered chatbot designed to assist users with various queries. The system can recognize speech, provide spoken responses, and save the conversation history for later review.
 
 ---
 
-## 📦 Technologies Used
-- HTML, CSS, JavaScript (Vanilla)
-- Web Speech API (`SpeechRecognition`, `speechSynthesis`)
-- `localStorage` for saving data offline
+## Features
+- Voice-to-text functionality to understand user queries.
+- Text-to-speech functionality to respond back to users.
+- Local chat history saved for ongoing interactions.
 
 ---
-
-## 🚀 How to Run
-1. Download or clone the repo
-2. Open any `index.html` file in a web browser (preferably Chrome)
-3. Allow microphone permissions when prompted
