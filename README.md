@@ -16,20 +16,6 @@ An AI-powered voice chatbot that can:
 
 ---
 
-### 2. 🌐 Multilingual Speech Recognition System
-A browser-based voice input system that can detect speech in multiple languages (e.g., English, Hindi, Spanish, etc.), and display the transcribed text.
-
-📁 Folder: `multilingual-speech-recognition`
-
----
-
-### 3. 🗣️ Voice-Based Notes and Memo System
-A hands-free note-taking app that lets users record quick memos using voice commands. Supports saving notes in browser memory.
-
-📁 Folder: `voice-notes-memo`
-
----
-
 ## 📦 Technologies Used
 - HTML, CSS, JavaScript (Vanilla)
 - Web Speech API (`SpeechRecognition`, `speechSynthesis`)
